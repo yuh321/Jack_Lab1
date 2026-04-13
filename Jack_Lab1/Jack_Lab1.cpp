@@ -10,4 +10,7 @@ int main()
 
     std::cout << "Changes made by Miriam Hannah Jones!" << std::endl;
     std::cout << "Lab 1 completed on [today's date]!" << std::endl;
+
+    std::cout << "Feature by Jack: Branching is awesome!" << std::endl;
+
 }

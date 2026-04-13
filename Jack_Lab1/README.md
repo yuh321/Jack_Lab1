@@ -11,3 +11,5 @@ Simple C++ console app created for Git lab 1
 ## Team Members
 - Jack
 - Hannah 
+
+## Changes Made by Jack: added a feature greeting.
