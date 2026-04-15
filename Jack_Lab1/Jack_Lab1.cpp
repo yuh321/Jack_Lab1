@@ -5,8 +5,6 @@
 
 int main()
 {
-    std::cout << "Hello from student A!" << std::endl;
-
     std::cout << "Hello from Jack! This is my first Git commit" << std::endl;
     std::cout << "Git makes collaboration easy!" << std::endl;
 
