@@ -19,10 +19,13 @@ int main()
     std::cout << "Pass-Fail-Check";
     //feature by Hannah: pass-fail-check added to the code
 
-    // My favourite number function — added by [Your Name]
-    void myFavouriteNumber() {
-        int fav = [your favourite number];
-        cout << "My favourite number is: " << fav << endl;
- 
+    {
+        void myFavouriteNumber();
+        int fav = 2;
+        std::cout << "My favourite number is: " << fav << std::endl;
 
+
+    }
 }
+
+  
