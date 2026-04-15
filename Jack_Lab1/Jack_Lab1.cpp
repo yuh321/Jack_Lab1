@@ -16,5 +16,7 @@ int main()
     std::cout << "Change to the code ";
 
     std::cout << "Student ID: [Your ID] | Name: [Your Name]" << std::endl;
+    std::cout << "Pass-Fail-Check";
+    //feature by Hannah: pass-fail-check added to the code
 
 }
