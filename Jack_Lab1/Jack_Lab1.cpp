@@ -15,4 +15,6 @@ int main()
 
     std::cout << "Feature by Jack: Branching is awesome!" << std::endl;
 
+    std::cout << "Student ID: [Your ID] | Name: [Your Name]" << std::endl;
+
 }
