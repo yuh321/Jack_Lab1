@@ -17,4 +17,10 @@ int main()
 
     std::cout << "Student ID: [Your ID] | Name: [Your Name]" << std::endl;
 
+    // My favourite number function — added by [Your Name]
+    void myFavouriteNumber() {
+        int fav = [your favourite number];
+        cout << "My favourite number is: " << fav << endl;
+ 
+
 }
